@@ -1,0 +1,6 @@
+nodemon, express, mongoose
+marked : to convert markdown to html
+slugify : to create slugs for articles to use in url (to avoid use of ugly ids)
+method-override : to use DELETE/PATCH/PUT with a form,button insted of bring stuck with just GET/POST
+
+dompurify , jsdom : purify the markdown sent by use , to make sure there is not manual HTML added
