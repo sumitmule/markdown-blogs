@@ -1,4 +1,4 @@
-# markdown-blogs
+# Markdown Blogs
 A blogging website📄 with MongoDB connectivity that supports Markdown format and CRUD operations on the blogs
 
 The website has a simple interface. The home page shows all articles on the website. Users can Create new articles, Edit and Delete previously created articles.
@@ -21,9 +21,14 @@ For convinient blogging experience the site supports Markdown format to write bl
 3. Database : MongoDB
 
 ### Screenshots :
+
 ![image](https://github.com/sumitmule/markdown-blogs/assets/111048440/ab9f440b-adb2-43bb-8553-5a60f668a0e2)
+
+<br>
+
 ![image](https://github.com/sumitmule/markdown-blogs/assets/111048440/77c6305e-a64b-4877-9d6f-9e60c47e6c31)
 
+<br> 
 
 ### Things implemented in this project :
 - getting more familiar with express.js
