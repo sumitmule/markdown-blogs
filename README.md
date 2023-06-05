@@ -22,11 +22,11 @@ For convinient blogging experience the site supports Markdown format to write bl
 
 ### Screenshots :
 
-![image](https://github.com/sumitmule/markdown-blogs/assets/111048440/ab9f440b-adb2-43bb-8553-5a60f668a0e2)
+![image](https://github.com/sumitmule/markdown-blogs/assets/111048440/dc4c200c-ba70-4cb2-8ae0-754cce21e84e)
 
 <br>
 
-![image](https://github.com/sumitmule/markdown-blogs/assets/111048440/77c6305e-a64b-4877-9d6f-9e60c47e6c31)
+![image](https://github.com/sumitmule/markdown-blogs/assets/111048440/0ded43f3-26f7-4158-a34b-35a5d9d13595)
 
 <br> 
 
